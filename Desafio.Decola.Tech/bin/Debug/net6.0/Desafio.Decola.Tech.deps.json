@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio.Decola.Tech/1.0.0": {
+        "runtime": {
+          "Desafio.Decola.Tech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio.Decola.Tech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
